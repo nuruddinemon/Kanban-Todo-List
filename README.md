@@ -11,7 +11,7 @@
 
 To install and run the project locally, follow these steps:
 
-- Clone the repository: `git clone https://github.com/nuruddinemon/react-todo-list.git`
+- Clone the repository: `git clone https://github.com/nuruddinemon/Kanban-Todo-List`
 - Navigate to the project directory: `cd your project file`
 - Install the dependencies: `npm install`
 - Add Vite.Config.js : `server: {
