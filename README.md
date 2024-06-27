@@ -9,14 +9,9 @@
 
 ## 👨‍💻 Installation
 
-To install and run the project locally, follow these steps:
+1. Clone the repository: `git clone  https://github.com/nuruddinemon/Kanban-Todo-List
+2. Navigate to the project directory:  `cd your project file`
+3. Install the dependencies:  `npm install`
+4. Start the development server:  `npm run dev `
+5. Open your web browser and navigate to: `http://localhost:3000  ` 
 
-- Clone the repository: `git clone https://github.com/nuruddinemon/Kanban-Todo-List`
-- Navigate to the project directory: `cd your project file`
-- Install the dependencies: `npm install`
-- Add Vite.Config.js : `server: {
-  port: 3000,
-}`
-- Start the development server: `npm run dev`
-
-The app will now be running at `http://localhost:3000/`.
